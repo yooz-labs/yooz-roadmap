@@ -104,4 +104,4 @@ We want community input on:
 
 ---
 
-**Previous:** [Yooz Notes MVP](yooz-notes-mvp.md) | **Next:** Yooz Messenger (Q2 2026)
+**Previous:** [Yooz Notes MVP](yooz-notes-mvp.md) | **Next:** Yooz Messenger (Q3 2026)

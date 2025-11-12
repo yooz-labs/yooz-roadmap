@@ -53,15 +53,10 @@ AI-accelerated keyboard with local processing:
 - Privacy-preserving learning
 - Integration with open-source STT
 
-### 3. Yooz Messenger (Q2 2026)
+### 3. Yooz Messenger (Q3 2026)
 **Status:** Planned
 
 End-to-end encrypted messaging with AI features
-
-### 4. Yooz Privacy Vault (Q3 2026)
-**Status:** Planned
-
-Personal AI server appliance for home deployment
 
 ## Current Focus (November 2025)
 
