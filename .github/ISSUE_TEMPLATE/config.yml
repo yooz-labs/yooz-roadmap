@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Feature Request or Idea
+    url: https://github.com/yooz-eco/yooz-roadmap/discussions/new?category=ideas
+    about: Share your ideas and feature suggestions in Discussions
+  - name: Ask a Question
+    url: https://github.com/yooz-eco/yooz-roadmap/discussions/new?category=q-a
+    about: Get help from the community
+  - name: General Discussion
+    url: https://github.com/yooz-eco/yooz-roadmap/discussions/new?category=general
+    about: Discuss anything Yooz-related
+  - name: Security Issue
+    url: mailto:security@yooz.live
+    about: Report security vulnerabilities privately
