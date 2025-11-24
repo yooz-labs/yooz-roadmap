@@ -51,15 +51,33 @@ Privacy-first note-taking app with:
 - Cross-platform (Web, iOS, Android via Capacitor)
 
 ### 2. Yooz Keyboard (Q1 2026)
-**Status:** In Planning
+**Status:** In Development
 
-AI-accelerated keyboard with local processing:
-- Advanced text prediction
+AI-powered keyboard with local processing:
+- Advanced text prediction and autocorrect
 - Multi-language support (15+ languages)
 - Privacy-preserving learning
-- Integration with open-source STT
+- Gesture typing
 
-### 3. Yooz Messenger (Q3 2026)
+### 3. Yooz Voice (Q1 2026)
+**Status:** In Planning
+
+Real-time voice-to-text input that works anywhere:
+- Instant speech-to-text conversion
+- Multi-language support
+- Fully local processing
+- Works across all apps
+
+### 4. Yooz Scribe (Q2 2026)
+**Status:** Planned
+
+Local meeting transcription and note-taking:
+- Real-time meeting transcription
+- Speaker identification
+- AI-powered summaries
+- End-to-end encrypted recordings
+
+### 5. Yooz Messenger (Q3 2026)
 **Status:** Planned
 
 End-to-end encrypted messaging with AI features
