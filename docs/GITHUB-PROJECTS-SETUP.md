@@ -14,7 +14,7 @@ GitHub Projects provide a visual board view (similar to Trello) that helps:
 
 ### Project 1: Q4 2025 - Yooz Notes Beta
 
-1. Go to https://github.com/yooz-eco/yooz-roadmap
+1. Go to https://github.com/yooz-labs/yooz-roadmap
 2. Click the "Projects" tab
 3. Click "New project"
 4. Choose "Board" template
@@ -202,9 +202,9 @@ Q4 2025 - Yooz Notes Beta
 
 ## Quick Links
 
-- [Create new project](https://github.com/yooz-eco/yooz-roadmap/projects/new)
-- [View milestones](https://github.com/yooz-eco/yooz-roadmap/milestones)
-- [View issues](https://github.com/yooz-eco/yooz-roadmap/issues)
+- [Create new project](https://github.com/yooz-labs/yooz-roadmap/projects/new)
+- [View milestones](https://github.com/yooz-labs/yooz-roadmap/milestones)
+- [View issues](https://github.com/yooz-labs/yooz-roadmap/issues)
 - [GitHub Projects documentation](https://docs.github.com/en/issues/planning-and-tracking-with-projects)
 
 ---

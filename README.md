@@ -136,7 +136,7 @@ View our [public milestones](../../milestones) to see what we're working on and 
 
 - **Website:** [yooz.live](https://yooz.live)
 - **Documentation:** [docs.yooz.live](https://docs.yooz.live)
-- **Organization:** [github.com/yooz-eco](https://github.com/yooz-eco)
+- **Organization:** [github.com/yooz-labs](https://github.com/yooz-labs)
 
 ## License
 
