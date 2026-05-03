@@ -140,7 +140,13 @@ View our [public milestones](../../milestones) to see what we're working on and 
 
 ## License
 
-This repository is for tracking public roadmap and community engagement. Individual product repositories may have different licenses.
+Roadmap content (prose, milestones, discussion summaries) is licensed under [Creative Commons Attribution 4.0 International (CC-BY-4.0)](LICENSE.md). Share and adapt freely with attribution to Yooz Labs.
+
+The full ecosystem licensing strategy lives in [`yooz-engine/LICENSING.md`](https://github.com/yooz-labs/yooz-engine/blob/main/LICENSING.md). Individual product repositories under [yooz-labs](https://github.com/yooz-labs) carry their own licenses (most product code is PolyForm Shield 1.0.0). Trademarks (the Yooz name, wordmark, logos) are NOT covered by this license; they are proprietary marks of Yooz Labs Inc.
+
+## Contributing
+
+See [`CONTRIBUTING.md`](CONTRIBUTING.md). Security issues: see [`SECURITY.md`](SECURITY.md).
 
 ---
 
