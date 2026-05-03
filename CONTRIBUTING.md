@@ -157,11 +157,15 @@ Contributors who make significant impact will be recognized in:
 - Documentation credits
 - Community highlights
 
+## License
+
+Roadmap content (this repository's prose, milestones, and discussion summaries) is licensed under [Creative Commons Attribution 4.0 International (CC-BY-4.0)](LICENSE.md). You can share and adapt this content as long as you credit Yooz Labs.
+
 ## Questions?
 
 - **General questions:** Use Discussions > Q&A
-- **Security issues:** Email security@yooz.live (do not post publicly)
-- **Private matters:** Email hello@yooz.live
+- **Security issues:** Email **dev@yooz.info** (do not post publicly). See [`SECURITY.md`](SECURITY.md).
+- **Private matters:** Email **dev@yooz.info**.
 
 ## Getting Started
 
